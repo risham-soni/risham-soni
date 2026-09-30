@@ -16,7 +16,7 @@ I enjoy turning ideas into practical products using modern technologies across t
 * ⚡ Experienced in building **real-time applications** using Socket.IO
 * 🌐 Passionate about developing responsive and user-friendly web experiences
 * 🧠 Strong foundation in **Data Structures, Algorithms, OOP, and DBMS**
-* 🏆 Solved **200+ DSA problems** across Codeforces, LeetCode, and GeeksforGeeks
+* 🏆 Solved **300+ DSA problems** across Codeforces, LeetCode, and GeeksforGeeks
 * 🔍 Currently exploring advanced full-stack development and practical AI applications
 
 ---
